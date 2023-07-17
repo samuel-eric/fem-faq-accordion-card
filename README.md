@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github URL](https://github.com/samuel-eric/fem-faq-accordion-card)
-- Live Site URL: [Live site URL]([https://your-live-site-url.com](https://fem-faq-accordion-sericy.netlify.app/))
+- Live Site URL: [Live site URL](https://fem-faq-accordion-sericy.netlify.app/)
 
 ## My process
 
